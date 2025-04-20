@@ -1,2 +1,2 @@
-# sebastianradakpage
-Sebastian Radak Github page. Project 1
+# SebastianRadakPage
+Sebastian Radak page. Project 1
